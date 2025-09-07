@@ -4,7 +4,7 @@ import { FaGithub } from "react-icons/fa";
 const Navbar = () => {
   return (
     <div>
-      <nav className='bg-indigo-950   '>
+      <nav className='bg-indigo-950  w-full relative '>
         <div className="myContainer text-white flex justify-between items-center px-4 py-5 h-16 w-full">
         <div className="logo ">
             {/* <p className='font-bold text-lg text-amber-300'>Password</p>
